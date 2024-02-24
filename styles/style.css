@@ -1,0 +1,16 @@
+body {
+    font-family: cursive;
+}
+
+a {
+    color: red;
+}
+
+.desc_title {
+    color: red;
+}
+
+img {
+    border-radius: 30px;
+    border: 5px solid black;
+}
