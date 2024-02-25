@@ -1,9 +1,35 @@
+/* * {
+    outline: 1px solid red;
+} */
+
 body {
     font-family: cursive;
 }
 
+#recipes {
+    width: 16%;
+    margin-left: 42%;
+}
+
+#recipe {
+    width: 20%;
+    margin-left: 40%;
+}
+
 a {
     color: red;
+}
+
+h1.menu, .desc_title {
+    text-align: center;
+}
+
+.ingredients, .steps {
+    margin-left: 30%;
+}
+
+li.menu {
+    margin-left: 25%;
 }
 
 .desc_title {
